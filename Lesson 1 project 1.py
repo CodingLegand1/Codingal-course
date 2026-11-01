@@ -1,4 +1,4 @@
-#This is my daily routine on weekdays, step by step.
+print("This is my daily routine.")
 print("I wake up at 7:25am.")
 print("I go straight to the bathroom and brush my teeth.")
 print("I go downstairs, drink some water and come up again to take a shower.")
@@ -10,3 +10,4 @@ print("I have a class on every weekday so I attend that class at 3:30pm,4:00pm o
 print("On Thursdays and Fridays I have coding class, so I attend it.")
 print("After I finish all my classes I either play with my friends, watch TV, do homework from my other classes or just do something random.")
 print("And then I just eat and sleep, for another big day.")
+print("Total classes per week=", 2*1 + 3*2)
